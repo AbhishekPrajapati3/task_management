@@ -1,16 +1,42 @@
-# task_mgmt
+#  Task Management App
 
-A new Flutter project.
+A Flutter-based Task Management App that allows users to register, log in, and manage their tasks in real time using Firebase Authentication and Firestore.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Follow these steps to set up and run the project locally.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or VS Code with Flutter plugin
+- Firebase account (for Firebase setup)
+
+
+
+### Setup Instructions
+ 1. **Clone the Repository**
+
+      ```
+      https://github.com/AbhishekPrajapati3/task_management.git
+      ```
+ 2. **Navigate to the Project Directory :**
+
+     ```
+       cd task_management
+     ```
+3.  **Install Dependencies :**
+   
+    ```
+      flutter pub get
+    ```
+
+
+4. **Run the App :**
+     
+     ```
+       flutter run
+     ```
+
+
+
